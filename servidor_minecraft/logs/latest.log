@@ -333,3 +333,8 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at
 [02:05:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ludcario has made the advancement [Not Today, Thank You]
 [02:07:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ludcario fell from a high place
 [02:10:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ludcario was killed by magic
+[02:13:31] [Server thread/WARN] [FML]: Thaumcraft loaded a new chunk [-5, -1] in dimension 0 (overworld) while populating chunk [-5, 0], causing cascading worldgen lag.
+[02:13:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:15:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ludcario was shot by Centaur
+[02:16:16] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ludcario lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
+[02:16:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ludcario left the game

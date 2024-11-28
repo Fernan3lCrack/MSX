@@ -15209,3 +15209,24 @@ Caused by: java.io.FileNotFoundException: http://maxhenkel.de/update/gravestone.
 [02:10:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ludcario was killed by magic
 [02:10:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [02:11:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:12:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:13:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:13:31] [Server thread/WARN] [FML]: Thaumcraft loaded a new chunk [-5, -1] in dimension 0 (overworld) while populating chunk [-5, 0], causing cascading worldgen lag.
+[02:13:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:13:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:14:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:15:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:15:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ludcario was shot by Centaur
+[02:16:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:16:16] [Netty Epoll Server IO #2/DEBUG] [FML]: Muted NetworkDispatcher exception
+io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
+	at io.netty.channel.unix.FileDescriptor.readAddress(..)(Unknown Source) ~[FileDescriptor.class:?]
+[02:16:16] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ludcario lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
+[02:16:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ludcario left the game
+[02:16:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:17:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:18:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:19:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:19:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:20:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:21:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
